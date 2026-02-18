@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: ed885c260918b5948810dfeb7851899e
+  productGUID: c37d6b7b00b0c974382079bbbc3602f0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TecInmersivas
+  productName: TecInmerUnity
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -842,14 +842,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TecInmersivas
+  metroPackageName: TecInmerUnity
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TecInmersivas
+  metroApplicationDescription: TecInmerUnity
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -918,12 +918,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: dcb5f0d0-db4c-42fe-ad0c-7414a2f5e0b1
+  cloudProjectId: 14f93b7e-16f3-4b10-902a-8bf9ccba25e8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TecInmersivas
+  projectName: TecInmerUnity
   organizationId: enekko
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

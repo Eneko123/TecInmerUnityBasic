@@ -5,6 +5,6 @@ public class Esfera : MonoBehaviour
 {
     private void OnMouseDown()
     {
-            SceneManager.LoadScene("Practica2S2");
+            SceneManager.LoadScene("Practica3S2");
     }
 }

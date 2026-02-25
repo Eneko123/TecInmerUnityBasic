@@ -3,7 +3,7 @@ using UnityEngine;
 public class MovimientoFlecha : MonoBehaviour
 {
     private int velocidad = 15;
-    private int velocidadRotacion = 35;
+    private int velocidadRotacion = 80;
     
     void Update()
     {
